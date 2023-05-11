@@ -73,27 +73,27 @@ This project was created using the following technologies.
 - [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [Tailwind CSS](https://tailwindcss.com/) - For User Interface
+<!-- - [Tailwind CSS](https://tailwindcss.com/) - For User Interface -->
 - [React icons](https://react-icons.github.io/react-icons/) - Small library that helps you add icons  to your react apps
-- [Redux](https://redux.js.org/) - Managing complex application state
-- [Localforage](https://localforage.github.io/localForage/) - Saves data in the web browser asynchronously
-- [React Vite](https://vitejs.dev/guide/) - Improved website speed
-- [Redux Toolkit](https://redux-toolkit.js.org/) - To facilitate the development of web applications using Redux
-- [Apexcharts](https://www.npmjs.com/package/apexcharts) - An open source library used to create interactive graphics on websites or web applications
-- [match-sorter](https://www.npmjs.com/package/match-sorter) - An open source library used to create interactive graphics on websites or web applications
+<!-- - [Redux](https://redux.js.org/) - Managing complex application state -->
+<!-- - [Localforage](https://localforage.github.io/localForage/) - Saves data in the web browser asynchronously -->
+<!-- - [React Vite](https://vitejs.dev/guide/) - Improved website speed -->
+<!-- - [Redux Toolkit](https://redux-toolkit.js.org/) - To facilitate the development of web applications using Redux -->
+<!-- - [Apexcharts](https://www.npmjs.com/package/apexcharts) - An open source library used to create interactive graphics on websites or web applications -->
+<!-- - [match-sorter](https://www.npmjs.com/package/match-sorter) - An open source library used to create interactive graphics on websites or web applications -->
 
 ####  Backend 
 
 - [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [mysql](https://www.npmjs.com/package/mysql) - For authentication
+<!-- - [mysql](https://www.npmjs.com/package/mysql) - For authentication -->
 - [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-- [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption
+<!-- - [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption -->
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [Nodemon](https://www.npmjs.com/package/nodemon) - To monitor changes to the program code that is being developed
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
-- [cookie-parser](https://www.npmjs.com/package/cookie-parser) - A middleware for web frameworks
-- [Sequelize](https://www.npmjs.com/package/sequelize) - An Object-Relational Mapping (ORM) for Node.js that makes it easy to access relational databases such as MySQL, PostgreSQL, and SQLite using the JavaScript programming language.
+<!-- - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication -->
+<!-- - [cookie-parser](https://www.npmjs.com/package/cookie-parser) - A middleware for web frameworks -->
+<!-- - [Sequelize](https://www.npmjs.com/package/sequelize) - An Object-Relational Mapping (ORM) for Node.js that makes it easy to access relational databases such as MySQL, PostgreSQL, and SQLite using the JavaScript programming language. -->
 
 ####  Database 
 

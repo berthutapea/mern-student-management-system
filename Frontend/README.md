@@ -1,3 +1,3 @@
-# Student-Management-System
+# MERN-Student-Management-System
 
 Fronted
