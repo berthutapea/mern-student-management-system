@@ -97,7 +97,7 @@ This project was created using the following technologies.
 ![img-5](https://github.com/berthutapea/mern-student-management-system/assets/111676859/b746eba1-4ab1-4e50-a425-4ce5582f3cea)
 
 ## Author
-- Portfolio: [@berthutapea](https://berthutapea.vercel.app/)
+- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
 - Github: [@bert-hutapea](https://github.com/berthutapea)
 - Linkedin: [@gilbert-hutapea](https://www.linkedin.com/in/gilberthutapea/)
 - Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
