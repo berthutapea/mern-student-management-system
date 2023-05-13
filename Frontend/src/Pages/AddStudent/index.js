@@ -121,4 +121,4 @@ export default function AddStudent() {
       </form>
     </div>
   );
-}
+};
