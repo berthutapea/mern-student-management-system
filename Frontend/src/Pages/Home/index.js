@@ -13,7 +13,7 @@ export default function Home() {
   useEffect(() => {
     const getStudents = () => {
       axios
-        .get("http://localhost:8070/student/get")
+        .get("https://sttiss-api.vercel.app/student/get")
         .then((res) => {
           setStudents(res.data);
         })

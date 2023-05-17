@@ -27,7 +27,7 @@ export default function AddStudent() {
     }).then((result) => {
       if (result.isConfirmed) {
         axios
-          .post("http://localhost:8070/student/add", newStudent)
+          .post("https://sttiss-api.vercel.app/student/add", newStudent)
           .then(() => {
             Swal.fire("Student has been successfully Saved!", "", "success");
             navigate("/");
