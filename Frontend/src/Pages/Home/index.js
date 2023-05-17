@@ -13,7 +13,7 @@ export default function Home() {
   useEffect(() => {
     const getStudents = () => {
       axios
-        .get("https://sttiss-api.vercel.app/student/get")
+        .get("http://localhost:8070/student/get")
         .then((res) => {
           setStudents(res.data);
         })
@@ -34,7 +34,7 @@ export default function Home() {
     }).then((result) => {
       if (result.isConfirmed) {
         axios
-          .delete(`https://sttiss-api.vercel.app/delete/${id}`)
+          .delete(`https://sttiss-api.vercel.app/student/delete/${id}`)
           .then((res) => {
             Swal.fire("Deleted!", res.data.status, "success");
             //update table after deleting
