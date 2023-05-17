@@ -10,7 +10,7 @@ const ShowOne = () => {
 
   useEffect(() => {
     const getUser = () => {
-      axios.get(`http://localhost:8070/student/get/${id}`).then((res) => {
+      axios.get(`https://sttiss-api.vercel.app/student/get/${id}`).then((res) => {
         setUser(res.data.user);
       });
     };
@@ -28,7 +28,7 @@ const ShowOne = () => {
   const handleFormSubmit = (event) => {
     event.preventDefault();
     axios
-      .put(`http://localhost:8070/student/update/${id}`, user)
+      .put(`https://sttiss-api.vercel.app/student/update/${id}`, user)
       .then(() => {
         Swal.fire({
           title: "Do you want to save the changes?",

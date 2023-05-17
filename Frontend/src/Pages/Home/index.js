@@ -34,7 +34,7 @@ export default function Home() {
     }).then((result) => {
       if (result.isConfirmed) {
         axios
-          .delete(`http://localhost:8070/student/delete/${id}`)
+          .delete(`https://sttiss-api.vercel.app/delete/${id}`)
           .then((res) => {
             Swal.fire("Deleted!", res.data.status, "success");
             //update table after deleting
